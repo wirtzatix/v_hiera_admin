@@ -1,0 +1,4 @@
+---
+v_ssh::permit_root_login: false
+v_ssh::port: 22
+...

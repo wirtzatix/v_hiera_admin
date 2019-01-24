@@ -1,0 +1,4 @@
+---
+v_ntp::service_ensure: 'running'
+v_ntp::service_enable: true
+...
